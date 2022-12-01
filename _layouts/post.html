@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="card mb-4 clearfix">
+    <div class="card-body">
+        <div class="float-left text-center">
+            <h4 class="card-title">{{ page.title }}</h4>
+        
+            {% if page.via %}
+            <p class="card-text">
+                {{ page.desc }}<br>
+                <span class="text-muted">Posted on {{ page.date | date: '%B %d, %Y' }} on {{ page.via }}</span>
+            </p>
+            {% else %}
+            <p class="card-text">
+                {{ page.desc }}<br>
+                <span class="text-muted">Posted on {{ page.date | date: '%B %d, %Y' }}</span>
+            </p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="mx-auto">
+    {{ content }}
+</div>

@@ -7,55 +7,44 @@ layout: default
 permalink: /statements/
 ---
 
-<div class="m-4">
-	<div class="text-center">
-		<h1><img src="/img/melonia-logo.png" width="44" alt="Melonia" class="rounded-circle align-top mr-1" /> Melonia</h1>
-		
-		<a href="/" class="mr-2 text-twitter"><i class="fas fa-home"></i> Home</a>
-		<a href="https://twitter.com/meloniagov" class="mr-2 text-twitter"><i class="fab fa-twitter"></i> Twitter</a>
-		<a href="https://www.youtube.com/@melonia" class="mr-2 text-youtube"><i class="fab fa-youtube"></i> YouTube</a>
-		<a href="/statements/" class="mr-2 text-blog"><i class="fas fa-pencil-alt"></i> Statements</a>
-	</div>
-	<br>
-	<div class="alert alert-warning text-center" role="alert">
-		<h2 class="mt-0">This site is work-in-progress.</h2>
-		<p class="mb-0">Come back later for more updates.</p>
-	</div>
+<div class="alert alert-warning text-center" role="alert">
+	<h2 class="mt-0">This site is work-in-progress.</h2>
+	<p class="mb-0">Come back later for more updates.</p>
+</div>
 
-	<h2 class="mb-4 mt-4 text-center">Newest statements</h2>
-	{% for post in site.posts limit:5 %}
-	<div class="homepage-card">
-		<div class="card mb-3 clearfix">
-			<div class="card-body">
-			<div class="float-left">
-			{% if post.badge-text %}
-				<h4 class="card-title"><span class="badge badge-danger">{{ post.badge-text }}</span> {{ post.title }}</h4>
-			{% else %}
-				<h4 class="card-title">{{ post.title }}</h4>
-			{% endif %}
-			
-			{% if post.via %}
-			<p class="card-text">
-				{{ post.desc }}<br>
-				<span class="text-muted">Posted on {{ post.date | date: '%B %d, %Y' }} on {{ post.via }}</span>
-			</p>
-			{% else %}
-			<p class="card-text">
-				{{ post.desc }}<br>
-				<span class="text-muted">Posted on {{ post.date | date: '%B %d, %Y' }}</span>
-			</p>
-			{% endif %}
-			</div>
-			{% if post.via %}
-				<a href="{{ post.via-link }}" class="btn btn-primary mt-2">Read this post on {{ post.via }}</a>
-			{% else %}
-				<a href="{{ post.url }}" class="btn btn-primary mt-2">Read this post</a>
-			{% endif %}
-			</div>
+<h2 class="mb-4 mt-4 text-center">Newest statements</h2>
+{% for post in site.posts limit:5 %}
+<div class="homepage-card">
+	<div class="card mb-3 clearfix">
+		<div class="card-body">
+		<div class="float-left">
+		{% if post.badge-text %}
+			<h4 class="card-title"><span class="badge badge-danger">{{ post.badge-text }}</span> {{ post.title }}</h4>
+		{% else %}
+			<h4 class="card-title">{{ post.title }}</h4>
+		{% endif %}
+		
+		{% if post.via %}
+		<p class="card-text">
+			{{ post.desc }}<br>
+			<span class="text-muted">Posted on {{ post.date | date: '%B %d, %Y' }} on {{ post.via }}</span>
+		</p>
+		{% else %}
+		<p class="card-text">
+			{{ post.desc }}<br>
+			<span class="text-muted">Posted on {{ post.date | date: '%B %d, %Y' }}</span>
+		</p>
+		{% endif %}
+		</div>
+		{% if post.via %}
+			<a href="{{ post.via-link }}" class="btn btn-primary mt-2">Read this post on {{ post.via }}</a>
+		{% else %}
+			<a href="{{ post.url }}" class="btn btn-primary mt-2">Read this post</a>
+		{% endif %}
 		</div>
 	</div>
-	{% endfor %}
-	</div>
+</div>
+{% endfor %}
 </div>
 
 <style>
