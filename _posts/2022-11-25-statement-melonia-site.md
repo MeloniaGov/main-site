@@ -2,7 +2,7 @@
 title: Statement from President Michael Webb on the New Melonia Website
 layout: post
 category: Presidential
-image: melonia-logo.png
+image: melonia-flag.png
 keywords: presidential statement, michael webb, therandommelon
 id: statement-melonia-site
 desc: Melonia President Michael Webb's statement on the creation of the new Melonia website.

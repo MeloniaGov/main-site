@@ -11,6 +11,14 @@ layout: default
 	<p class="mb-0">Come back later for more updates.</p>
 </div>
 
+<div class="card text-bg-dark border-0 mb-4">
+	<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="card-img home-card-img" alt="Photo of the Isonian Raid, a battle between Melonians and pillagers.">
+	<div class="card-img-overlay d-flex flex-column justify-content-center align-items-center">
+	  <h3 class="card-title" style="text-shadow: 0px 0px 5px black;">A nation of hope and glory.</h3>
+	  <p class="card-text" style="text-shadow: 0px 0px 5px black;">The Republic of Melonia believes in a government that serves its citizens first and foremost.</p>
+	</div>
+</div>
+
 <h2 class="mb-4 mt-4 text-center">Newest statement</h2>
 {% for post in site.posts limit:1 %}
 <div class="homepage-card">
@@ -45,3 +53,13 @@ layout: default
 	</div>
 {% endfor %}
 </div>
+
+<style>
+	.home-card-img {
+		max-height: 400px;
+		background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/img/home/isonian-raid-photo.png');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+	}
+</style>
