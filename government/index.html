@@ -101,6 +101,17 @@ layout: default
 		border-radius: 20px;
 	}
 
+    @media (max-width: 576px) { 
+        .officials {
+            flex-direction: column !important;
+        }
+
+        .official {
+            width: 100% !important;
+            margin-bottom: 20px;
+        }
+    }
+
     .officials .official:not(:last-child) {
         margin-right: 10px;
         min-width: 0;
