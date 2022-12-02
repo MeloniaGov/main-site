@@ -24,7 +24,7 @@ permalink: /government/pm/
 - Co-wrote three of those first six: the Property Tax Act, the Criminal Code and the first Constitutional Amendment (which standardized treaties and wars).
 - Brought many ideas to the floor that ended up being adapted into laws that eventually passed.
 - Wrote two more laws after that: the Business Code and the Naturalization Act, which are core laws of today's Republic.
-- In his second tenure, Scion wrote sven more bills: the Currency Act, the Criminal Procedure Act, the Flag Code, the Borough and Zoning Act, the Amendment to Naturalization Act (removed requirement to be a citizen for a certain number of days to run for office), City Constitutional Amendment III (removed requirement for ALL Senators to be present for Senate meetings), and Budget Reduction Act (codified budgets, and creating the budget that is currently used).
+- In his second tenure, Scion wrote seven more bills: the Currency Act, the Criminal Procedure Act, the Flag Code, the Borough and Zoning Act, the Amendment to Naturalization Act (removed requirement to be a citizen for a certain number of days to run for office), City Constitutional Amendment III (removed requirement for ALL Senators to be present for Senate meetings), and Budget Reduction Act (codified budgets, and creating the budget that is currently used).
 
 #### Minister of Finance
 - Balanced (and continues to balance) the Melonian government budget.
