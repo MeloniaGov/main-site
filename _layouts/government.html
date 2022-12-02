@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="alert alert-warning" role="alert">
+    Not all government officials have clickable biographies yet. This is a work-in-progress.
+</div>
+
+<div class="card text-bg-dark border-0 mb-4 mt-2">
+	<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="card-img govt-card-img" alt="Photo of a session of the Melonian Parliament.">
+	<div class="card-img-overlay d-flex flex-column justify-content-center align-items-center text-center">
+	  <h3 class="card-title" style="text-shadow: 0px 0px 5px black;">{{ page.title }}</h3>
+	  <p class="card-text position" style="text-shadow: 0px 0px 5px black;">{{ page.position }}</p>
+	  <p class="card-text" style="text-shadow: 0px 0px 5px black;">{{ page.heroDesc }}</p>
+	</div>
+</div>
+
+{{ content }}
+
+<style>
+	.govt-card-img {
+		max-height: 400px;
+		background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/img/government/{{ page.image }}');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+	}
+
+    .position {
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 12px;
+        color: #bebebe;
+        margin-bottom: 24px;
+    }
+</style>

@@ -1,27 +1,62 @@
 ---
 title: Home
-desc: Melonia is a Constitutional Republic government in a Minecraft server with a democratically elected President, Speaker of Parliament and Members of Parliament. The President appoints a Prime Minister, who then appoints ministers of "Cabinets" to execute the law. Citizens are to abide by the government's laws and regulations, and in return receive services.
-description: Melonia is a Constitutional Republic government in a Minecraft server with a democratically elected President, Speaker of Parliament and Members of Parliament. The President appoints a Prime Minister, who then appoints ministers of "Cabinets" to execute the law. Citizens are to abide by the government's laws and regulations, and in return receive services.
+desc: Melonia is a Constitutional Republic government in a Minecraft server with a democratically elected President, Speaker of Parliament and Members of Parliament.
+description: Melonia is a Constitutional Republic government in a Minecraft server with a democratically elected President, Speaker of Parliament and Members of Parliament.
 keywords: homepage
 layout: default
 ---
 
-<div class="alert alert-warning text-center" role="alert">
-	<h2 class="mt-0">This site is work-in-progress.</h2>
-	<p class="mb-0">Come back later for more updates.</p>
-</div>
-
-<div class="card text-bg-dark border-0 mb-4">
+<div class="card text-bg-dark border-0 mb-4 mt-2">
 	<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="card-img home-card-img" alt="Photo of the Isonian Raid, a battle between Melonians and pillagers.">
-	<div class="card-img-overlay d-flex flex-column justify-content-center align-items-center">
+	<div class="card-img-overlay d-flex flex-column justify-content-center align-items-center text-center">
 	  <h3 class="card-title" style="text-shadow: 0px 0px 5px black;">A nation of hope and glory.</h3>
 	  <p class="card-text" style="text-shadow: 0px 0px 5px black;">The Republic of Melonia believes in a government that serves its citizens first and foremost.</p>
 	</div>
 </div>
 
-<h2 class="mb-4 mt-4 text-center">Newest statement</h2>
-{% for post in site.posts limit:1 %}
-<div class="homepage-card">
+<div class="bg-dark text-bg-dark rounded px-4 py-5 mb-4">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+		<div class="col-sm-8 col-lg-6">
+			<img src="/img/home/downtown.png" class="d-block mx-lg-auto img-fluid rounded-more" alt="A photo of downtown Melonia City." width="700" height="500">
+		</div>
+		<div class="col-lg-6">
+			<h1 class="display-5 fw-bold lh-1 mb-3">A tight-knit community.</h1>
+			<p class="lead">Every citizen in Melonia gets along. Even government officials and business tycoons are close with everyone else in the Republic.</p>
+			<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+				<a href="/about">
+					<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Learn more about Melonia</button>
+				</a>
+			</div>
+		</div>
+    </div>
+</div>
+
+<div class="bg-light rounded px-4 py-5 mb-4">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+		<div class="col-sm-8 col-lg-6">
+			<img src="/img/home/parliament.png" class="d-block mx-lg-auto img-fluid rounded-more" alt="A photo of downtown Melonia City." width="700" height="500">
+		</div>
+		<div class="col-lg-6">
+			<h1 class="display-5 fw-bold lh-1 mb-3">Meet our government officials.</h1>
+			<p class="lead">Several people work tirelessly to make Melonia live long and prosper. Learn more about them.</p>
+			<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+				<a href="/government/president">
+					<button type="button" class="btn btn-secondary btn-lg px-4 me-md-2">President</button>
+				</a>
+				<a href="/government/pm">
+					<button type="button" class="btn btn-secondary btn-lg px-4 me-md-2">Prime Minister</button>
+				</a>
+				<a href="/government">
+					<button type="button" class="btn btn-secondary btn-lg px-4 me-md-2">Other Officials</button>
+				</a>
+			</div>
+		</div>
+    </div>
+</div>
+
+<h2 class="mb-4 mt-4 text-center">Newest government statements</h2>
+{% for post in site.posts limit:3 %}
+<div class="homepage-card mb-4">
 	<div class="card mb-3 clearfix">
 		<div class="card-body">
 			<div class="float-left text-center">
@@ -44,9 +79,9 @@ layout: default
 				{% endif %}
 				
 				{% if post.via %}
-					<a href="{{ post.via-link }}" class="btn btn-primary btn-blog-home">Read this post on {{ post.via }}</a>
+					<a href="{{ post.via-link }}" class="btn btn-primary btn-blog-home">Read more at {{ post.via }}</a>
 				{% else %}
-					<a href="{{ post.url }}" class="btn btn-primary btn-blog-home">Read this post</a>
+					<a href="{{ post.url }}" class="btn btn-primary btn-blog-home">Read more</a>
 				{% endif %}
 			</div>
 		</div>
@@ -61,5 +96,9 @@ layout: default
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
+	}
+
+	.rounded-more {
+		border-radius: 20px;
 	}
 </style>

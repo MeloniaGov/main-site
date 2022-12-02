@@ -1,28 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body class="d-flex flex-column container">
-    <div class="m-4">
+<body>
+    <div class="mt-4 d-flex flex-column container">
         <div class="text-center main-nav">
             <h1>
-                <img src="/img/melonia-logo.png" width="44" alt="Melonia" class="rounded-circle align-top mr-1" />
-                Melonia
+                <img src="/img/melonia-logo.png" alt="Melonia" class="rounded-circle align-top mr-2 nav-logo" />
+                Republic of Melonia
             </h1>
 
-            <a href="/" class="text-twitter"><i class="fas fa-home"></i> Home</a>
-            <a href="https://twitter.com/meloniagov" class="text-twitter"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="https://www.youtube.com/@melonia" class="text-youtube"><i class="fab fa-youtube"></i> YouTube</a>
-            <a href="/statements/" class="text-blog"><i class="fas fa-pencil-alt"></i> Statements</a>
+            <a href="/"><i class="fas fa-home"></i> Home</a>
+            <a href="/government"><i class="fas fa-info-circle"></i> About</a>
+            <a href="/about"><i class="fas fa-user"></i> Government</a>
+            <a href="/statements/"><i class="fas fa-pencil-alt"></i> Statements</a>
+            <a href="https://twitter.com/meloniagov"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="https://www.youtube.com/@melonia"><i class="fab fa-youtube"></i> YouTube</a>
         </div>
         <br>
-    {{ content }}
+        {{ content }}
     </div>
     
     <style>
         .main-nav a {
             text-decoration: none;
-            margin-right: 8px;
+            margin-right: 10px;
+        }
+
+        .nav-logo {
+            width: calc(1.75rem + 1.5vw);
         }
     </style>
+{% include footer.html %}
 </body>
 </html>

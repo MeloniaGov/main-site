@@ -2,15 +2,10 @@
 title: Statements
 desc: Official statements from Melonian government members.
 description: Official statements from Melonian government members.
-keywords: statements
+keywords: statements, official statement
 layout: default
 permalink: /statements/
 ---
-
-<div class="alert alert-warning text-center" role="alert">
-	<h2 class="mt-0">This site is work-in-progress.</h2>
-	<p class="mb-0">Come back later for more updates.</p>
-</div>
 
 <h2 class="mb-4 mt-4 text-center">Newest statements</h2>
 {% for post in site.posts limit:5 %}
@@ -37,9 +32,9 @@ permalink: /statements/
 		{% endif %}
 		</div>
 		{% if post.via %}
-			<a href="{{ post.via-link }}" class="btn btn-primary mt-2">Read this post on {{ post.via }}</a>
+			<a href="{{ post.via-link }}" class="btn btn-primary mt-2">Read more at {{ post.via }}</a>
 		{% else %}
-			<a href="{{ post.url }}" class="btn btn-primary mt-2">Read this post</a>
+			<a href="{{ post.url }}" class="btn btn-primary mt-2">Read more</a>
 		{% endif %}
 		</div>
 	</div>
