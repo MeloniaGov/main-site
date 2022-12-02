@@ -11,7 +11,7 @@ permalink: /government/pm/
 ---
 
 ## Introduction
-**tz_scion**, also known by his username tz_scion, is the current Prime Minister and the Minister of Finance of the Republic of Melonia. He was appointed to the Minister position by President Michael Webb on July 15, 2022, and unanimously confirmed by the Parliament. After now-former Prime Minister Mira announced their resignation from that position, President Webb decided to appoint Scion to replace Mira. Scion has held the Prime Minister position since August 15, 2022. Scion helped found and is a current member of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy.
+**Scion**, also known by his username tz_scion, is the current Prime Minister and the Minister of Finance of the Republic of Melonia. He was appointed to the Minister position by President Michael Webb on July 15, 2022, and unanimously confirmed by the Parliament. After now-former Prime Minister Mira announced their resignation from that position, President Webb decided to appoint Scion to replace Mira. Scion has held the Prime Minister position since August 15, 2022. Scion helped found and is a current member of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy.
 
 ## Achievements
 
