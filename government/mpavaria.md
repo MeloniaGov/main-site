@@ -4,7 +4,7 @@ desc: Learn more about the Member of Parliament (Avaria) of the Republic of Melo
 description: Learn more about the Member of Parliament (Avaria) of the Republic of Melonia, cstro216.
 position: Member of Parliament (Avaria) of the Republic of Melonia
 heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
-keywords: member of parliament, mp, avaria, cstro, cstro216
+keywords: member of parliament, mp, avaria, cstro, cstro216, cstro570
 layout: government
 image: cstro-portrait.png
 permalink: /government/mpavaria/
