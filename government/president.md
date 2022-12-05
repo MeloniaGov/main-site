@@ -32,7 +32,7 @@ permalink: /government/president/
 - Ran several elections, ensuring their reliability along the way.
 - Created an Executive Order to allow the Republic of Melonia to take in "asylum seekers", people who have been kicked out of their abstract nation.
 - Established the Republic of Melonia Defense Readiness Scale (DRI), a scale with 5 levels that establishes what will happen under each condition. This keeps citizens more informed on potential conflicts, and therefore, safe.
-- Conducted important diplomacy with the Cieurnish Empire following the [One Hour War](https://wiki.melonia.xyz/history/one-year-war).
+- Conducted important diplomacy with the Cieurnish Empire following the [One Hour War](https://wiki.melonia.xyz/history/one-hour-war).
 - Sat in most parliament and government meetings, leading the charge to ensure all passed laws are beneficial for Melonia and its citizenry.
 - Created this very website to allow an easy-to-access and convenient gateway to all things Melonia.
 - Established the [Melonia Civic Society Wiki](https://wiki.melonia.xyz), the main source to learn about Melonian civics and history.
