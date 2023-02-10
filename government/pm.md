@@ -6,7 +6,7 @@ position: Prime Minister of the Republic of Melonia
 heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
 keywords: prime minister, pm, scion, tz_scion
 layout: government
-image: scion-portrait.png
+image: scion-portrait.PNG
 permalink: /government/pm/
 ---
 
