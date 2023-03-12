@@ -1,17 +1,17 @@
 ---
 title: cstro216
-desc: Learn more about the Member of Parliament (Avaria) of the Republic of Melonia, cstro216.
-description: Learn more about the Member of Parliament (Avaria) of the Republic of Melonia, cstro216.
-position: Member of Parliament (Avaria) of the Republic of Melonia
+desc: Learn more about the Member of Parliament (Sautia) of the Republic of Melonia, cstro216.
+description: Learn more about the Member of Parliament (Sautia) of the Republic of Melonia, cstro216.
+position: Member of Parliament (Sautia) of the Republic of Melonia
 heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
-keywords: member of parliament, mp, avaria, cstro, cstro216, cstro570
+keywords: member of parliament, mp, Sautia, cstro, cstro216, cstro570
 layout: government
 image: cstro-portrait.png
-permalink: /government/mpavaria/
+permalink: /government/mpcstro/
 ---
 
 ## Introduction
-**cstro**, also known by his usernames cstro216 and cstro570, is the current Member of Parliament of the Republic of Melonia for Avaria. He ran unopposed for the position on May 30, 2022. cstro is a co-founder and current member of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy.
+**cstro**, also known by his usernames cstro216 and cstro570, is the current Member of Parliament of the Republic of Melonia for Sautia. He ran unopposed for the position on May 30, 2022. cstro is a co-founder and current member of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy.
 
 ## Achievements
 
