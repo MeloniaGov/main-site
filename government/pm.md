@@ -2,7 +2,7 @@
 title: CalvinX
 desc: Learn more about the Prime Minister of the Republic of Melonia, CalvinX.
 description: Learn more about the Prime Minister of the Republic of Melonia, CalvinX.
-position: MPrime Minister of the Republic of Melonia
+position: Prime Minister of the Republic of Melonia
 heroDesc: A relatively new citizen of Melonia who won the people's heart quickly.
 keywords: parliament, member of parliament, calvin, deajginia
 layout: government
