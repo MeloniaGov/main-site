@@ -1,31 +1,27 @@
 ---
-title: awedball
-desc: Learn more about the Prime Minister of the Republic of Melonia, awedball.
-description: Learn more about the Prime Minister of the Republic of Melonia, awedball.
-position: Prime Minister of the Republic of Melonia
-heroDesc: A fairly recently-naturalized citizen of Melonia who has already climbed up to a top rank in the Republic.
-keywords: prime minister, pm, awedball, awedball545
+title: CalvinX
+desc: Learn more about the Prime Minister of the Republic of Melonia, CalvinX.
+description: Learn more about the Prime Minister of the Republic of Melonia, CalvinX.
+position: MPrime Minister of the Republic of Melonia
+heroDesc: A relatively new citizen of Melonia who won the people's heart quickly.
+keywords: parliament, member of parliament, calvin, deajginia
 layout: government
-image: awedball-portrait.png
+image: calvin-portrait.png
 permalink: /government/pm/
 ---
 
 ## Introduction
-**awedball**, also known by his username awedball545, is the current Prime Minister and the Minister of Science of the Republic of Melonia. He was appointed to the Minister position by President Michael Webb on January 25, 2023, and unanimously confirmed by the Parliament. After President Webb and former Prime Minister tz_scion had a political disagreement, President Webb decided to appoint awedball as his Prime Minister candidate instead. awedball has been the Prime Minister since February 15, 2023. awedball helped found and is a member of the CalvinBall Party, which aims to provide the best experience and level the playing field for all citizens, new and old.
+**CalvinX**, also known simply as Calvin, is the current Prime Minister and the former Member of Parliament (Deajginia) the Republic of Melonia. He won his MP position in an election on February 15, 2023. He was appointed as PM by President Scion and confirmed by Parliament on June 15, 2023. Calvin helped found and is a member of the CalvinBall Party, which aims to provide the best experience and level the playing field for all citizens, new and old.
 
 ## Achievements
 
 #### Personal
-- In the process of creating many public farms to provide for Melonians, especially new citizens.
-- Co-founded the CalvinBall Party.
+- Founded the CalvinBall Party.
 
-#### Minister of Science
-- Provided expertise for public farms, especially the triple mob spawner project.
-
-#### Prime Minister
-- Appointed tz_scion to the Minister of State and Minister of Architecture positions.
-- Approved large road projects in Sjafardyn and West Agronia.
+#### Member of Parliament
+- Co-wrote the Farm Registration Act, a law that provides proper public information about farms in the Republic of Melonia.
+- Contributed to discussions and edited several bills, including Constitutional Amendment III, Constitutional Amendment IV, the AFK Act, the Server Bank Act, and the Building Standards Act.
 
 ## Goals
-- Establish new public farms to provide for the Melonian people.
+- Write and modify laws to protect the Melonian people and help new citizens flourish.
 - Maintain security and prosperity in Melonia.

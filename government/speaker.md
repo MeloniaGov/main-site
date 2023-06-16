@@ -1,55 +1,45 @@
 ---
-title: tz_scion
-desc: Learn more about the Speaker of Parliament of the Republic of Melonia, tz_scion.
-description: Learn more about the Speaker of Parliament of the Republic of Melonia, tz_scion.
-position: Speaker of Parliament of the Republic of Melonia
-heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
-keywords: speaker, speaker of parliament, scion, tz_scion
+title: Michael Webb
+desc: Learn more about the President of the Republic of Melonia, Michael Webb.
+description: Learn more about the President of the Republic of Melonia, Michael Webb.
+position: President of the Republic of Melonia
+heroDesc: The founder of Melonia, leading since its inception.
+keywords: speaker, speaker of parliament, TheRandomMelon
 layout: government
-image: scion-portrait.PNG
+image: trm-portrait.PNG
 permalink: /government/speaker/
 ---
 
 ## Introduction
-**Scion**, also known by his username tz_scion, is the current Speaker of Parliament, the Minister of Finance, the Minister of State, and the Minister of Architecture of the Republic of Melonia. He was appointed to the Minister positions by President Michael Webb on July 15, 2022 (Finance), and February 16, 2023 (State and Arcitecture), and unanimously confirmed by the Parliament all three times. After now-former Prime Minister Mira announced their resignation from Prime Ministerialship, President Webb decided to appoint Scion to replace Mira. Scion held the Prime Minister position from August 15, 2022 to February 15, 2023 due to political disagreements between President Webb and Scion. Webb chose a different candidate for PM instead, leaving Scion to run for Speaker of Parliament instead, and defeated incumbent lainuel to take this spot. Scion helped found the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy, but is now a member of the CalvinBall Party, which aims to provide the best experience and level the playing field for all citizens, new and old.
+**Michael Webb** (known as TheRandomMelon) is the current Speaker of Parliament and the former President of the Republic of Melonia. He ran unopposed for President on May 30, 2022, with his running mate (at the time), JosephineMira. In the June 15, 2023 election, Speaker Webb decided instead to run for Speaker of Parliament, just barely winning against former M.P. Legate. Speaker Webb is also one of the founders and the current party leader of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy.
 
 ## Achievements
 
-#### Personal
-- Created the Melonyc language, a conlang that is used fairly extensively in Melonia today.
+#### City of Melonia (pre August 21, 2022)
+- Co-wrote both the original City of Melonia Constitution and the current Republic of Melonia Constitution.
+- Co-wrote the Homeland Protection Act and the Building Standards Act, which got passed unanimously by the City of Melonia Senate on June 1st, 2022.
+- Started the procedure of creating and naming streets, and keeping records of what people, businesses and nations were occupying each lot.
+- Led the charge into allyship with the Cieurnish Empire, who are strong allies of Melonia today.
+- Helped create the Cieurno-Melonian Treaty, which allows strong relations between both countries.
+- Created an official map of Melonia.
+- Pushed to allow naturalization (a process for people to become citizens of Melonia), and has used the bill to welcome several new citizens since then.
+- Established the Melonian Representative Party, Melonia's largest political party (every current government official except one is a member of the MRP.)
 
-#### First Two Tenures as Senator (now titled Member of Parliament) (May 30, 2022-July 15, 2022)
-- Co-wrote the City of Melonia Constitution.
-- Helped pass the first six laws in Melonian history.
-- Co-wrote three of those first six: the Property Tax Act, the Criminal Code and the first Constitutional Amendment (which standardized treaties and wars).
-- Brought many ideas to the floor that ended up being adapted into laws that eventually passed.
-- Wrote two more laws after that: the Business Code and the Naturalization Act, which are core laws of today's Republic.
-- In his second tenure, Scion wrote seven more bills: the Currency Act, the Criminal Procedure Act, the Flag Code, the Borough and Zoning Act, the Amendment to Naturalization Act (removed requirement to be a citizen for a certain number of days to run for office), City Constitutional Amendment III (removed requirement for ALL Senators to be present for Senate meetings), and Budget Reduction Act (codified budgets, and creating the budget that is currently used).
-
-#### Minister of Finance
-- Balanced (and continues to balance) the Melonian government budget.
-- Carries out tax collection.
-- Led the public work of constructing Interstate 420 and Webb Road in Agronia, building out large infrastructure.
-
-#### Third Tenure as Member of Parliament (July 29, 2022-August 15, 2022)
-- Co-wrote the Constitution of the Republic of Melonia (wrote the majority of it)
-- Wrote the Unemployment Protection Act, providing unemployment benefits to all Melonian citizens who are unemployed and log on to the server at least once per week.
-- Wrote the Fire Inhibition Act, which requires that all buildings with flammable roofs and/or walls have a lightning rod installed on the top of the property.
-- Wrote the Corporate Income Act, which provides assistance to companies and organizations who do not bring in a revenue of 1,280 melits or more by giving them money that makes their revenue then equal to 1,280 melits.
-
-#### Prime Minister (August 15, 2022-February 15, 2023)
-- Created the Ministry of Architecture, appointing IsoKamikaze for this position.
-- Helped lead almost all government meetings since the Republic of Melonia's founding.
-- Helped strengthen relations with the Cieurnish Empire when they were at their lowest during the fallout of the [One Hour War](https://wiki.melonia.xyz).
-- Worked on several bills to build the new Republic government up, from a revamped criminal code to the first Republic Constitutional Amendment.
-- Had (unofficially) held the position of Minister of State since Mira's firing on October 16, 2022, and officially began holding it on February 16, 2023.
-
-#### Speaker of Parliament
-- Brought regular meetings to the Parliament, leading to more discussions and more thoroughly-thought-out laws coming to the President's desk.
-- Does clerical work in terms of keeping Parliamentary records.
-- Written six bills in the February 15-April 15, 2023 term, including two Constitutional Amendments, the Farm Registration Act, and the Building Standards Act, which all affect daily life in Melonia.
+#### Republic of Melonia
+- Designed the Republic of Melonia's basic government structure, including the President-Prime Minister dynamics, and Parliament.
+- Established and currently maintains the Republic's official [Twitter accounts](https://twitter.com/MeloniaGov).
+- Created the Melonia Broadcasting Corporation (MBC), a news source that reports the latest Melonian news to all Melonian and allied citizens.
+- Ran several elections, ensuring their reliability along the way.
+- Created an Executive Order to allow the Republic of Melonia to take in "asylum seekers", people who have been kicked out of their abstract nation.
+- Established the Republic of Melonia Defense Readiness Scale (DRI), a scale with 5 levels that establishes what will happen under each condition. This keeps citizens more informed on potential conflicts, and therefore, safe.
+- Conducted important diplomacy with the Cieurnish Empire following the [One Hour War](https://wiki.melonia.xyz/history/one-hour-war).
+- Sat in most parliament and government meetings, leading the charge to ensure all passed laws are beneficial for Melonia and its citizenry.
+- Created this very website to allow an easy-to-access and convenient gateway to all things Melonia.
+- Established the [Melonia Civic Society Wiki](https://wiki.melonia.xyz), the main source to learn about Melonian civics and history.
 
 ## Goals
-- Write laws to protect the Melonian people.
-- Establish hospitalities with [Arkovia](https://wiki.melonia.xyz/civics/cieurnia/najtraunas), such as shared public infrastructure.
-- Maintain security and prosperity in Melonia.
+- Establish more activity in Melonia.
+- Further strengthen relations with the Cieurnish Empire.
+- Create a new treaty with the Cieurnish Empire.
+- Give Parliament more of a say in the Executive Branch.
+- **Serve the Melonian people.**
