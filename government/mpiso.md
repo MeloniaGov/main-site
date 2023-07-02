@@ -1,17 +1,17 @@
 ---
 title: IsoKamikaze
-desc: Learn more about the Member of Parliament (Murvania) of the Republic of Melonia, IsoKamikaze.
-description: Learn more about the Member of Parliament (Murvania) of the Republic of Melonia, IsoKamikaze.
-position: Member of Parliament (Murvania) of the Republic of Melonia
-heroDesc: The Member of Parliament for the Murvania district of the Republic of Melonia.
-keywords: member of parliament, mp, cortia, Iso, IsoKamikaze
+desc: Learn more about the Member of Parliament of the Republic of Melonia, IsoKamikaze.
+description: Learn more about the Member of Parliament of the Republic of Melonia, IsoKamikaze.
+position: Member of Parliament of the Republic of Melonia
+heroDesc: A Member of Parliament of the Republic of Melonia.
+keywords: member of parliament, mp, Iso, IsoKamikaze
 layout: government
 image: iso-portrait.png
 permalink: /government/mpiso/
 ---
 
 ## Introduction
-**IsoKamikaze**, also known by his real life name Owen or nickname Iso, is the current Member of Parliament of the Republic of Melonia for Murvania and former Minister of Architecture. He was appointed to the Minister position by former Prime Minister and current Speaker tz_scion on October 30, 2022. He also was a candidate for the July 15th Senate election for Expansia. However, on July 7th, a few days before the election, he dropped out, stating that he could not attend debates or the actual vote that next week due to other obligations. On December 2, 2022, he was fired from the Minister position by Prime Minister Scion because of inadequate communication with the Prime Minister concerning his building projects.
+**IsoKamikaze**, also known by his real life name Owen or nickname Iso, is a current Member of Parliament of the Republic of Melonia and former Minister of Architecture. He was appointed to the Minister position by former Prime Minister and current Speaker tz_scion on October 30, 2022. He also was a candidate for the July 15th Senate election for Expansia. However, on July 7th, a few days before the election, he dropped out, stating that he could not attend debates or the actual vote that next week due to other obligations. On December 2, 2022, he was fired from the Minister position by Prime Minister Scion because of inadequate communication with the Prime Minister concerning his building projects.
 
 IsoKamikaze ran unopposed for Member of Parliament for the district of Murvania on February 15, 2023. He currently holds this position.
 

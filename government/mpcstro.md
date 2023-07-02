@@ -1,10 +1,10 @@
 ---
 title: cstro216
-desc: Learn more about the Member of Parliament (Sautia) of the Republic of Melonia, cstro216.
-description: Learn more about the Member of Parliament (Sautia) of the Republic of Melonia, cstro216.
-position: Member of Parliament (Sautia) of the Republic of Melonia
+desc: Learn more about the Member of Parliament of the Republic of Melonia, cstro216.
+description: Learn more about the Member of Parliament of the Republic of Melonia, cstro216.
+position: Member of Parliament of the Republic of Melonia
 heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
-keywords: member of parliament, mp, Sautia, cstro, cstro216, cstro570
+keywords: member of parliament, mp, cstro, cstro216, cstro570
 layout: government
 image: cstro-portrait.png
 permalink: /government/mpcstro/
