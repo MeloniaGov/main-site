@@ -6,7 +6,7 @@ position: Minister of State and Member of Parliament of the Republic of Melonia
 heroDesc: The founder of Melonia, leading since its inception.
 keywords: TheRandomMelon
 layout: government
-image: trm-portrait.PNG
+image: trm-portrait.png
 permalink: /government/mptrm/
 ---
 

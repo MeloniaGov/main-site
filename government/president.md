@@ -6,7 +6,7 @@ position: President of the Republic of Melonia
 heroDesc: A co-founder of Melonia, staying heavily involved in the government since its inception.
 keywords: president, Michael Webb, TheRandomMelon
 layout: government
-image: scion-portrait.PNG
+image: scion-portrait.png
 permalink: /government/president/
 ---
 
