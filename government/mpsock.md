@@ -18,6 +18,7 @@ permalink: /government/mpsock/
 #### Member of Parliament
 - Passed several laws.
 - Contributed massively to discussions behind a few important laws.
+- Contributed to discussions regarding the Sovereign Act which led to its modification and passing.
 
 ## Goals
 - Pass laws.

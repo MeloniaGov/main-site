@@ -3,7 +3,7 @@ title: Michael Webb
 desc: Learn more about the Minister of State and an M.P. of the Republic of Melonia, Michael Webb.
 description: Learn more about he Minister of State and an M.P. of the Republic of Melonia, Michael Webb.
 position: Minister of State and Member of Parliament of the Republic of Melonia
-heroDesc: The founder of Melonia, leading since its inception.
+heroDesc: The founder of Melonia, leading and staying in government since its inception.
 keywords: TheRandomMelon
 layout: government
 image: trm-portrait.PNG
@@ -11,7 +11,7 @@ permalink: /government/mptrm/
 ---
 
 ## Introduction
-**Michael Webb** (known as TheRandomMelon) is the current Minister of State, a Member of Parliament, and the former President of the Republic of Melonia. He ran unopposed for President on May 30, 2022, with his running mate (at the time), JosephineMira. In the June 15, 2023 election, Speaker Webb decided instead to run for Speaker of Parliament, just barely winning against former M.P. Legate. Speaker Webb is also one of the founders and the current party leader of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy. He decided to run for Member of Parliament instead during the October 15, 2023 elections when he did not have enough time to dedicate to being Speaker, but still wished to serve citizens.
+**Michael Webb** (known as TheRandomMelon) is the current Minister of State, a Member of Parliament, and the former President of the Republic of Melonia. He ran unopposed for President on May 30, 2022, with his running mate (at the time), JosephineMira. In the June 15, 2023 election, Speaker Webb decided instead to run for Speaker of Parliament, just barely winning against former M.P. Legate. Speaker Webb is also one of the founders and the current party leader of the Melonian Representative Party, a political party which aims to keep Melonia growing and flourishing as a representative democracy. He decided to run for Member of Parliament instead during the October 15, 2023 elections because he did not have enough time to dedicate to being Speaker, but still wished to serve citizens.
 
 ## Achievements
 
