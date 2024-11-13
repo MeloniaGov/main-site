@@ -2,8 +2,8 @@ title: Republic of Melonia
 email: michael@therandommelon.com
 description: The official website of the Republic of Melonia.
 baseurl: ""
-url: https://melonia.xyz
-urlnp: melonia.xyz
+url: https://melonia-site.osolia.xyz
+urlnp: melonia-site.osolia.xyz
 twitter: https://twitter.com/MeloniaGov
 github: https://github.com/MeloniaGov/main-site
 permalink: /statements/:year/:title

@@ -40,7 +40,7 @@ permalink: /government/president/
 #### Prime Minister (August 15, 2022-February 15, 2023)
 - Created the Ministry of Architecture, appointing IsoKamikaze for this position.
 - Helped lead almost all government meetings since the Republic of Melonia's founding.
-- Helped strengthen relations with the Cieurnish Empire when they were at their lowest during the fallout of the [One Hour War](https://wiki.melonia.xyz).
+- Helped strengthen relations with the Cieurnish Empire when they were at their lowest during the fallout of the [One Hour War](https://melonia-wiki.osolia.xyz).
 - Worked on several bills to build the new Republic government up, from a revamped criminal code to the first Republic Constitutional Amendment.
 - Had (unofficially) held the position of Minister of State since Mira's firing on October 16, 2022, and officially began holding it on February 16, 2023.
 
@@ -51,5 +51,5 @@ permalink: /government/president/
 
 ## Goals
 - Write laws to protect the Melonian people.
-- Establish hospitalities with [Arkovia](https://wiki.melonia.xyz/civics/cieurnia/najtraunas), such as shared public infrastructure.
+- Establish hospitalities with [Arkovia](https://melonia-wiki.osolia.xyz/civics/cieurnia/najtraunas), such as shared public infrastructure.
 - Maintain security and prosperity in Melonia.
